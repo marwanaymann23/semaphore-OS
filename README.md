@@ -1,1 +1,1 @@
-# semaphore-OS
+# semaphore simulator using java
